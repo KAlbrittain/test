@@ -2,3 +2,5 @@
 
 * More bullets. Make sure to leave space between the asterisk and the start of the bullet text.
 * And some more
+
+I finally clicked enough buttons to find my way back to edit this page.
